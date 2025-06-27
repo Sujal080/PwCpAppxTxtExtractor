@@ -2,7 +2,7 @@
 {
     "name": "Repo",
     "description": "PW Without Purchase Repo",
-    "repository": "https://github.com/",
+    "repository": "https://github.com/Sujal080/PwCpAppxTxtExtractor.git",
     "keywords": [
         "telegram bot",
         "pyrogram"
@@ -14,15 +14,15 @@
         },
         "API_HASH":{
             "description":"Get your telegram API HASH from https://my.telegram.org",
-		    "value":"26d76803d487d6d0cc818cf191fa7518"
+		    "value":"6ef5a426d85b7f01562a41e6416791d3"
         },
         "BOT_TOKEN":{
             "description":"Get from BotFather",
-            "value":"6582971212:AAG_K_Iec_0nlI83g_Sq0Aq3DXwcv6Zs4lQ"
+            "value":"8082819264:AAEVMZDud3rlIm6s2O9kIbXBh0ev61d7qeU"
         },
         "AUTH_USERS":{
             "description":"Admin/Owner/Friends ID Seperate by ','  Ex: 44578878,8878899",
-            "value":"6211690957"
+            "value":"8118667253"
         }
     }
 
